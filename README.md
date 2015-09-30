@@ -1,19 +1,9 @@
-# Git
+# Learning Elixir
 
-**TODO: Add description**
+**I will eventually have alot to say here but for right now I have nothing**
 
-## Installation
+![elixir logo](http://elixir-lang.org/images/logo/logo.png)
 
-If [available in Hex](https://hex.pm/docs/publish), the package can be installed as:
+## Wellbands
 
-  1. Add git to your list of dependencies in `mix.exs`:
-
-        def deps do
-          [{:git, "~> 0.0.1"}]
-        end
-
-  2. Ensure git is started before your application:
-
-        def application do
-          [applications: [:git]]
-        end
+![wellbands logo](https://lh3.googleusercontent.com/-0OC00ZQt8ww/VWXoWuo1ADI/AAAAAAAAAVA/BMcyj8d9zHU/w800-h800/Wellbands_logo.jpg)
